@@ -1,3 +1,3 @@
 # Introduction
 
-![twasi](/../assets/twasi_logo.svg)
+![twasi](../assets/twasi_logo.svg)
