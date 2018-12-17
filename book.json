@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "-sharing",
+        "navigator",
+        "collapsible-chapters",
+        "anchors"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "language": "en"
+}
