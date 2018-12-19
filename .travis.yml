@@ -6,6 +6,7 @@ cache:
   - node_modules
 script:
   - npm install -g gitbook-cli
+  - gitbook install
   - gitbook build
 deploy:
   provider: pages
