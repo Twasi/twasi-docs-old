@@ -5,3 +5,5 @@
 * [Community Plugins](community-plugins/README.md)
 * [Twasi-Core](twasi-core/README.md)
   * [Custom installations](twasi-core/custom-installations.md)
+* [Twitch-Web-Api](twitch-web-api/README.md)
+  * [Initialization](twitch-web-api/initialization.md)
