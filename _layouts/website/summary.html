@@ -1,4 +1,5 @@
 <img src="/assets/twasi_logo.svg" alt="twasi" style="height:60px" />
+<h2>Official Documentation</h2>
 {% macro articles(_articles) %} {% for article in _articles %}
 <li class="chapter {% if article.path == file.path and not article.anchor %}active{% endif %}" data-level="{{ article.level }}" {% if article.path %}data-path="{{ article.path|resolveFile }}"{% endif %}>
   {% if article.path and getPageByPath(article.path) %}
@@ -45,6 +46,6 @@
       <li class="divider"></li>
       {% endif %}
       {{ articles(part.articles, file, config) }}
-      {% endfor %} 
+      {% endfor %}
       <li class="divider"></li>
     </ul>

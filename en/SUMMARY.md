@@ -1,3 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Official Plugins](official-plugins/README.md)
+* [Community Plugins](community-plugins/README.md)
+* [Twasi-Core](twasi-core/README.md)
+  * [Custom installations](twasi-core/custom-installations.md)
