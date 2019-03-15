@@ -1,3 +1,0 @@
-# Übersicht
-
-* [Einführung](README.md)
