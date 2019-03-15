@@ -3,7 +3,8 @@
       "sharing",
       "collapsible-chapters",
       "page-toc",
-      "flexible-alerts"
+      "flexible-alerts",
+      "auto-summary-follow"
   ],
   "styles": {
       "website": "styles/website.css"
