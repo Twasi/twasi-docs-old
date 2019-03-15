@@ -4,7 +4,7 @@
       "collapsible-chapters",
       "page-toc",
       "flexible-alerts",
-      "auto-summary-follow"
+      "auto-summary"
   ],
   "styles": {
       "website": "styles/website.css"
